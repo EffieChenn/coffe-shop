@@ -16,8 +16,6 @@ const Navigation = () => {
 
     return (
         <div className="navigation">
-            {/* <label for="nav" id="toggleNav">➡️</label>
-            <input type="checkbox" id="nav" /> */}
             <nav >
                 <ul>
                     {/* <li><Link to="/menu">Menu</Link></li> */}
