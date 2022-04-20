@@ -11,6 +11,8 @@ const Contact = () => {
             <div className="main">
                 <form action="">
                     <h1>CONTACT US</h1>
+                    Your Name : <br /><br /><input type="text" required/>
+                    <br /><br />
                     Your Email : <br /><br /><input type="email" required/>
                     <br /><br />
                     Message : <br /><br /><textarea rows={10} cols={30} placeholder="Tell us something......" required>
